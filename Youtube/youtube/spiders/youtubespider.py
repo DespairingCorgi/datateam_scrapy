@@ -5,7 +5,7 @@ import json
 from youtube.items import YoutubeItem
 
 #os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
-API_KEY = 'AIzaSyCnU1SN56rFEdmccXhyjXmSh5zAvUHq3K0'
+API_KEY = '<YOURAPIKEY>'
 API_SEARCH_REQ = 'https://www.googleapis.com/youtube/v3/search'
 API_COMMENTTHREAD_REQ = 'https://www.googleapis.com/youtube/v3/commentThreads'
 
